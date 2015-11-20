@@ -21,9 +21,9 @@ An example can be found here: [GitHub Pages](http://pages.github.com/)
 
 ### Dependencies
 
-	- Leaflet 0.7.7
-	- font-awesome 4.4.0
-	- jquery 1.11.3
+- Leaflet 0.7.7
+- font-awesome 4.4.0
+- jquery 1.11.3
 
 ### Example
 
@@ -46,14 +46,14 @@ The options listed above are the defaults.  The command ```map.addControl( Legen
 
 ```
 <div id="legend">
-        <svg width="120" height="80">
-          <line x1="10" y1="20" x2="40" y2="20" class="path" />
-          <text x="40" y="20" transform="translate(8,4)">Trail</text>
-          <line x1="10" y1="40" x2="40" y2="40" class="cycleway" />
-          <text x="40" y="40"transform="translate(8,4)">Bike Path</text>
-          <line x1="10" y1="60" x2="40" y2="60" class="track" />
-          <text x="40" y="60" transform="translate(8,4)">Dirt Road</text>
-        </svg>
+   <svg width="120" height="80">
+      <line x1="10" y1="20" x2="40" y2="20" class="path" />
+      <text x="40" y="20" transform="translate(8,4)">Trail</text>
+      <line x1="10" y1="40" x2="40" y2="40" class="cycleway" />
+      <text x="40" y="40"transform="translate(8,4)">Bike Path</text>
+      <line x1="10" y1="60" x2="40" y2="60" class="track" />
+      <text x="40" y="60" transform="translate(8,4)">Dirt Road</text>
+   </svg>
 </div>
 ```
 
