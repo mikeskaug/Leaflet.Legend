@@ -5,7 +5,7 @@ This is a simple legend plugin for Leaflet.  It can be used to add a small popup
 
 ### What is this?
 
-This plugin allows you to add a simple popup legend to a Leaflet map.  It extends the Leaflet ```Control``` class: creating and positioning the necessary container elements. The actual legend content is defined separately as a legend element in the html and appended to the legend container (see [Usage](#Usage)).  
+This plugin allows you to add a simple popup legend to a Leaflet map.  It extends the Leaflet ```Control``` class: creating and positioning the necessary container elements. The actual legend content is defined separately as a legend element in the html and appended to the legend container (see Usage).  
 
 ### Demo
 
