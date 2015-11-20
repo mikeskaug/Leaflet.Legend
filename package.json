@@ -1,0 +1,26 @@
+{
+  "name": "leaflet-legend",
+  "version": "1.0.0",
+  "description": "A Leaflet plugin to add a popup legend to a map",
+  "main": "leaflet-legend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeskaug/Leaflet.Legend.git"
+  },
+  "keywords": [
+    "Leaflet",
+    "legend"
+  ],
+  "author": "Michael Skaug",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeskaug/Leaflet.Legend/issues"
+  },
+  "homepage": "https://github.com/mikeskaug/Leaflet.Legend#readme",
+  "dependencies": {
+    "leaflet": "^0.7.7"
+  }
+}
