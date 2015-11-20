@@ -3,12 +3,6 @@
 This is a simple legend plugin for Leaflet.  It can be used to add a small popup legend to a Leaflet map
 
 
-- [What is this?](#WhatIs)
-- [Demo](#Demo)
-- [Usage](#Usage)
-- [License](#Licence)
-
-
 ### What is this?
 
 This plugin allows you to add a simple popup legend to a Leaflet map.  It extends the Leaflet ```Control``` class: creating and positioning the necessary container elements. The actual legend content is defined separately as a legend element in the html and appended to the legend container (see [Usage](#Usage)).  
@@ -22,6 +16,8 @@ An example can be found here: [GitHub Pages](http://pages.github.com/)
 ### Dependencies
 
 - Leaflet 0.7.7
+
+optional:
 - font-awesome 4.4.0
 - jquery 1.11.3
 
