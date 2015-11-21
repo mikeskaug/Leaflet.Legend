@@ -21,9 +21,16 @@ optional:
 - font-awesome 4.4.0
 - jquery 1.11.3
 
+### Install
+Install with npm:
+```
+npm install leaflet-legend
+```
+or fork the [github project](https://github.com/mikeskaug/Leaflet.Legend).
+
 ### Example
 
-After including '''leaflet-legend.js''' and '''leaflet-legend.css''' in your project, you can add a legend to your map with the following:
+After including ```leaflet-legend.js``` and ```leaflet-legend.css``` in your project, you can add a legend to your map with the following:
 
 ```js
 var Legend =  new L.Control.Legend({
