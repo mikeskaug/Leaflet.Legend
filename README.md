@@ -9,7 +9,7 @@ This plugin allows you to add a simple popup legend to a Leaflet map.  It extend
 
 ### Demo
 
-An example can be found here: [OpenTrails](http://michaelskaug.com/projects/OpenTrails/)
+An example can be found here: [OpenTrailMap](http://michaelskaug.com/projects/OpenTrailMap/)
 
 ## Usage
 
