@@ -38,7 +38,8 @@ var Legend =  new L.Control.Legend({
         collapsed: true,
         controlButton: {
             title: "Legend"
-        });
+        }
+});
 map.addControl( Legend );
 
 $(".legend-container").append( $("#legend") );
